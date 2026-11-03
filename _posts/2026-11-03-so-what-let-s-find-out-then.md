@@ -24,25 +24,24 @@ with my feeling at ease with formal theory and my difficulty engaging deeply
 with non-formal political theory.
 
 But mulling over how I processed it revealed a lot more. I responded to that
-thought by picturing scenarios of me sharing it in conversation. I *instantly*
-went for the ‘note that this is just me and I'm not speaking for anyone else’ 
-disclaimer route, without further interest in exploring whether it's in any way
-generalisable.
+thought by picturing scenarios of me sharing that insight in conversation. I
+*instantly* went for the ‘note that this is just me and I'm not speaking for
+anyone else’  disclaimer route, without further interest in exploring whether
+there are people who think this way too.
 
 I wasn't even thinking of it as ‘the lazy option’, mind. I chose it out of a
 defensive reflex. My time in Amsterdam exposed me to a 'context-obsessed' view
 of knowledge, reminiscent of the thrust motivating area studies research. In
-this account, '[Context is king](https://tompepinsky.com/wp-content/uploads/2017/06/pa2014.pdf)'
+this account, '[context is king](https://tompepinsky.com/wp-content/uploads/2017/06/pa2014.pdf)'
 and any knowledge claim that doesn't account for the endless particularities of
 each case may as well be junk. But I digress.
 
-The punchline is that the only options I hitherto had in mind were
-thought-terminating, all with the goal of (being able to) say things. And the
-‘fertile ground for future enquiry’ was therefore ‘sealed off’ or entirely
-obscured from my mind. This might be why I find research puzzling and
-problematisation a byzantine task. It's kinda funny but also tragic that the
-only way I knew to react to a puzzling observation (and a potential research
-puzzle) is to quash it.
+The punchline is that *the only options I hitherto had in mind were
+thought-terminating*. And the ‘fertile ground for future enquiry’ was therefore
+‘sealed off’ or entirely obscured from my mind. This might be why I find
+research puzzling and problematisation a byzantine task. It's kinda funny but
+also tragic that the only way I knew to respond to a puzzling observation (and a
+potential research puzzle) is to quash it.
 
 Reflecting on this sequence of thoughts gives me a basic step-by-step guide to
 developing a stronger research mind. I first need to catching myself thinking in
@@ -57,11 +56,12 @@ for every idea that makes it to publication. I have to remind myself that pretty
 much all scientists are like this; I just never see them down in the doldrums of
 ideation hell. Second, the fact that my postulate only works in highly
 restrictive circumstances *can* (though of course not always) itself say
-something interesting. This is kinda *the* thing formal modelling is known for.
+something interesting. After all, that is kinda *the* thing formal modelling is
+known for.
 
-The second punchline: I ought to cultivate a habit of entertaining my fleeting
-thoughts, acknowledging that they may be uninformed or wrong, and then going "So
-what? Let's find out then."
+This leads me to the second punchline: I ought to *cultivate a habit of
+entertaining my fleeting thoughts*, acknowledging that they may be uninformed or
+wrong, and then going "So what? Let's find out then."
 
 Some extra thoughts
 ======
@@ -75,15 +75,16 @@ caught myself doing recently while introducing myself to a professor.
 
 More broadly, this points to a pattern of feeling like my 'innovative thoughts'
 are profane deviations that are not to be entertained. In essence, thought
-'sins'. I felt embarrassed that I even thought about whether it was possible to
-combine political psychology and formal models. When I saw Keith Schnakenberg
-mentioning it as one of his research agendas, I went "Oh." That there is faculty
-doing work on that makes my thoughts feel legit and 'un-sinful'.
+'sins' (as an analogy to thoughtcrime). I felt embarrassed that I even thought
+about whether it was possible to combine political psychology and formal models.
+When I saw Keith Schnakenberg mentioning it as one of his research agendas, I
+went "Oh." That there is faculty doing work on that makes my thoughts feel legit
+and 'un-sinful', 'holy' even.
 
 That probably says something about the way I view titles and career achievements
 as legitimising in and of itself. It also represents yet another thing I have to
 unpack about my view of science as 'only legitimate when it is boringly
-iterative'. My first thought is that it might just be a coping mechanism to
-alleviate my feeling of inadequacy at being 'unable to imagine novel approaches
-to understanding political phenomena'. As the above exercise has illuminated,
-that may be deceptively easy to solve.
+iterative'. Given the above, it might just be a coping mechanism to alleviate my
+feeling of inadequacy at being 'unable to imagine novel approaches to
+understanding political phenomena'. As the above exercise has illuminated, that
+may be deceptively easy to solve.
