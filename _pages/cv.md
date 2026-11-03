@@ -16,6 +16,8 @@ Education
 
 Experience
 ======
+* Dec 2026-: Student assistant at the [**MZES Data and Methods Unit**], Mannheim, Germany
+
 * Jan-Apr 2026: Research intern at [**CSIS Indonesia**](https://csis.or.id/), Jakarta, Indonesia
   * Comparative research on proportional electoral systems
   * Research on Indonesia's domestic electoral system
