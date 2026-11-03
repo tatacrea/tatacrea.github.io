@@ -24,8 +24,8 @@ and didn't have anyone to ask for counsel. Academics on the 'net also seem
 invincible with the lack of 'failure and confusion posts' on their pages.
 Through my [blog posts](https://tatacrea.github.io/year-archive/), I seek to
 chronicle the nooks and crannies of my journey and make things seem just that
-bit less daunting. I envision it becoming a rubberducking archive, a lab
-notebook, and a heap of scrap paper all in one.
+bit less daunting for those starting out after me. I envision it becoming a
+rubberducking archive, a lab notebook, and a heap of scrap paper all in one.
 
 I'm also in the early stages of creating learning aids for classes I've taken,
 like [this Shiny app](https://github.com/tatacrea/game-theory-shiny) I made for
