@@ -1,5 +1,5 @@
 ---
-title: 'So what? Let's find out then.'
+title: '"So what? Let's find out then"'
 date: 2026-11-03
 permalink: /posts/2026/11/so-what-let-s-find-out-then/
 tags:
