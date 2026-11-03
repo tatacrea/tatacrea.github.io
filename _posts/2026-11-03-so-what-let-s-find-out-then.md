@@ -12,7 +12,7 @@ tags:
 I've had a long history of struggling to devise research questions. I also
 rarely feel provoked or 'indignant, annoyed, and irritated' (to quote [Barbara
 Geddes](https://press.umich.edu/Books/P/Paradigms-and-Sand-Castles)) by the
-articles I read, almost reading them like gospel. Throughout my first two months
+articles I read, almost treating them as gospel. Throughout my first two months
 of grad school, I've been unpacking this 'lack of criticality'. I'm currently
 entertaining a hypothesis that it is a 'lack of curiosity'. There's this good
 example from rather recent memory:
